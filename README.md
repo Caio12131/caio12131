@@ -42,7 +42,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 🐍 Contribuições no GitHub
 
-![Snake Animation](https://github.com/Caio12131/Caio12131/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Caio12131/Caio12131/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
